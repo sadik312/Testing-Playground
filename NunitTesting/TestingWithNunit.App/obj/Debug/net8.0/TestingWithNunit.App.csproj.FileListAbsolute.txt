@@ -1,0 +1,12 @@
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/bin/Debug/net8.0/TestingWithNunit.App.deps.json
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/bin/Debug/net8.0/TestingWithNunit.App.dll
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/bin/Debug/net8.0/TestingWithNunit.App.pdb
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.AssemblyInfoInputs.cache
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.AssemblyInfo.cs
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.csproj.CoreCompileInputs.cache
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.sourcelink.json
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.dll
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/refint/TestingWithNunit.App.dll
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/TestingWithNunit.App.pdb
+/home/sadik/Documents/projects/Automation-Testing/NunitTesting/TestingWithNunit.App/obj/Debug/net8.0/ref/TestingWithNunit.App.dll
